@@ -1,0 +1,11 @@
+backups/
+elpa/
+places
+auto-save-list/
+sbcl.core-for-slime
+ac-comphist.dat
+ido.*
+
+!README
+!*.el
+!config/*.el
